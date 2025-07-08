@@ -52,7 +52,7 @@ rocketseat.com.br(dominio) é melhor que o IP
 -Server
     - Servidor
 
-// para achar um computador num conjunto, tem que usar o IP 
+
 
 
 

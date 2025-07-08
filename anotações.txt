@@ -1,1 +1,5 @@
 // para achar um computador num conjunto, tem que usar o IP 
+// <a  href="https://rocketseat.com.br">rocketseat</a> esse é o caminho de link que se usa num site
+// <h1> Titulo grande </h1> tag para titulo 
+// <p> Um texto </p> tag para texto 
+// <header></header> é o cabeçalho
