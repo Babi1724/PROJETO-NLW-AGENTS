@@ -52,6 +52,18 @@ rocketseat.com.br(dominio) é melhor que o IP
 -Server
     - Servidor
 
+# CSS
+
+- Cascading
+    -Cascata
+    -Regras das escritas
+-style
+    Estilo
+-Sheet
+    Folha
+
+De um arquivo que terá na sua sintaxe, declrações, propriedades e valores.
+A partir disso, o HTML é impactado visualmente.
 
 
 

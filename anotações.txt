@@ -3,3 +3,4 @@
 // <h1> Titulo grande </h1> tag para titulo 
 // <p> Um texto </p> tag para texto 
 // <header></header> é o cabeçalho
+// <img src="./assets/logo.png" alt=""> tag de img 
