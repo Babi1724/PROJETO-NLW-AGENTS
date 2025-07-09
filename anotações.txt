@@ -13,5 +13,8 @@
     background-size: 100% auto; aqui, define o tamanho dela
     background-position: top center; já aqui, define a posicao
     background-color: #121214; e aqui a cor
+// o * é um seletor universal, ou seja, tudo o que for feito dentro dele, acabara indo para todas as partes do projeto
+// o root é a raiz do projeto
+//box-sizing: border-box; define que tem a largura do conteudo + o preenchimento
 
 
