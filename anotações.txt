@@ -4,3 +4,14 @@
 // <p> Um texto </p> tag para texto 
 // <header></header> é o cabeçalho
 // <img src="./assets/logo.png" alt=""> tag de img 
+//<link rel="stylesheet" href="style.css"> tag do css
+//para achar as tag ou criar com facilidade, escreva ele e aperte enter
+// cascata é caindo de cima para baixo, então ele sempre pega a ultima atualização 
+// não existe mais a cascata em si, agora tem a especificidade, ou seja, se criar uma classe com o ponto na folha de estilo, esse será prioridade.
+// background-image: url("./assets/bg.jpg"); define a imagem
+    background-repeat: no-repeat; aqui, não repete
+    background-size: 100% auto; aqui, define o tamanho dela
+    background-position: top center; já aqui, define a posicao
+    background-color: #121214; e aqui a cor
+
+

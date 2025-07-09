@@ -26,6 +26,7 @@
     - Conjunto de regras
 
 # URL
+
 -Uniform
     - Uniforme
 -Resource
@@ -33,18 +34,20 @@
 -Locator
     - Localizador
 
-Encontrar um recurso (html,css,js,pdf,png,jpg,mp4,mp3)
+.Encontrar um recurso (html,css,js,pdf,png,jpg,mp4,mp3)
 
 # IP
+
 -Internet
     -Rede mundial de computadores
 -Protocol
     -Conjunto de regras
 
-Endereço do computador
-rocketseat.com.br(dominio) é melhor que o IP
+.Endereço do computador
+ rocketseat.com.br(dominio) é melhor que o IP.
 
 # DNS
+
 -Domain
     -Dominio
 -Name
@@ -57,13 +60,22 @@ rocketseat.com.br(dominio) é melhor que o IP
 - Cascading
     -Cascata
     -Regras das escritas
+    -Hierarquia
+    -Especificidade
+
 -style
     Estilo
+
 -Sheet
     Folha
 
-De um arquivo que terá na sua sintaxe, declrações, propriedades e valores.
-A partir disso, o HTML é impactado visualmente.
+.De um arquivo que terá na sua sintaxe, declrações, propriedades e valores.
+.A partir disso, o HTML é impactado visualmente.
+
+- declaração
+- seletor
+- propriedade e valor
+
 
 
 
