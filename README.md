@@ -24,6 +24,8 @@
 - Protocol
     - Protocolo
     - Conjunto de regras
+- Methods HTTP(Verbos): Get, Post, Patch/Put,Delete
+- Headers (cabecalhos): Intruções/ Informações extras para cada chamada
 
 # URL
 
@@ -104,6 +106,13 @@
 - Document
 - Object
 - Model
+
+# API 
+- Application
+- Programming
+- Interface
+- JSON: JavaScript Object Notation
+
 
 
 
