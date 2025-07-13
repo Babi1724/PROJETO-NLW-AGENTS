@@ -2,8 +2,6 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    border: 1px solid red;
-    box-sizing: border-box;
 }
 
 body{
@@ -30,5 +28,25 @@ header{
 }
 
 header img{
-    width:15rem ;
+    width: 15rem ;
+}
+
+main{
+    max-width: 36rem;
+    width: 90%;
+    margin: 3rem auto;
+    border: 1px solid red;
+}
+
+section{
+    background-image: linear-gradient(90deg,#9572FC 0%,#43E7AD 50%,#E2D45C 100%);
+    border-radius: 0.625rem;
+    padding-top: 4px;
+}
+
+section > div{
+    padding: 2rem;
+    padding-top: 1.5rem;
+    border-radius: 0.5rem;
+    background-color: #2A2634;
 }

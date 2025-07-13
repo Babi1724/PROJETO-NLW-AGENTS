@@ -16,5 +16,8 @@
 // o * é um seletor universal, ou seja, tudo o que for feito dentro dele, acabara indo para todas as partes do projeto
 // o root é a raiz do projeto
 //box-sizing: border-box; define que tem a largura do conteudo + o preenchimento
+// linear gradient serve para colocar um tipo de gradiente no lugar da url
+// o que seria o rem?
+// section > div{} seria para fazer alterações na div que fica dentro do section
 
 
